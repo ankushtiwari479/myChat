@@ -4,7 +4,7 @@ This is a real time chat applicaiton build on node.js sails.js socket.io angular
 
 `Installation`
 
-git clone https://github.com/vishnumishra/realChat.git
+git clone https://github.com/ankushtiwari479/myChat
 
 npm install 
 
